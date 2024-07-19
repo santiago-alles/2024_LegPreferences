@@ -27,3 +27,10 @@ Location
 -----------
 Data and supporting materials necessary to reproduce the results are available at the Harvard Dataverse:
 <pre>https://doi.org/10.7910/DVN/8EEJTX</pre>
+
+Suggested Citation
+------------------
+
+When using this dataset, please cite:
+
+<b>Alles</b>, Santiago. 2024. Institutional Opportunism: How Electoral Fortunes Shape Preferences for Power-Sharing Institutions in Latin America. <i>Legislative Studies Quarterly</i>, forthcoming. https://doi.org/10.1111/lsq.12472
